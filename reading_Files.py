@@ -5,11 +5,11 @@ import pandas as pd
 def loading_data():
 
     ## Loading all the data 
-    client_df = pd.read_json("data/client_profiles.json")
-    feedback_df = pd.read_json("data/feedback.json")
-    marketing_df = pd.read_json("data/marketing_assets.json")
-    product_df = pd.read_json("data/product_info.json")
-    seo_df = pd.read_json("data/seo_keywords.json")
+    client_df = pd.read_json("Data/client_profiles.json")
+    feedback_df = pd.read_json("Data/feedback.json")
+    marketing_df = pd.read_json("Data/marketing_assets.json")
+    product_df = pd.read_json("Data/product_info.json")
+    seo_df = pd.read_json("Data/seo_keywords.json")
 
 
     # Merge marketing content with client profile
