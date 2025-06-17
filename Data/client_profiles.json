@@ -1,0 +1,66 @@
+[
+  {
+    "client_id": 1,
+    "name": "EcoWear",
+    "industry": "Sustainable Fashion",
+    "tone": "Friendly",
+    "target_audience": "Eco-conscious millennials",
+    "values": ["Sustainability", "Minimalism", "Transparency"]
+  },
+  {
+    "client_id": 2,
+    "name": "GlowSkin",
+    "industry": "Skincare & Beauty",
+    "tone": "Warm and Luxurious",
+    "target_audience": "Women aged 25–40",
+    "values": ["Glow", "Science-Backed", "Self-Care"]
+  },
+  {
+    "client_id": 3,
+    "name": "FitFuel",
+    "industry": "Health & Fitness",
+    "tone": "Motivational and Bold",
+    "target_audience": "Young adults and college athletes",
+    "values": ["Performance", "Energy", "Discipline"]
+  },
+  {
+    "client_id": 4,
+    "name": "TechNectar",
+    "industry": "Consumer Electronics",
+    "tone": "Innovative and Clean",
+    "target_audience": "Tech-savvy professionals",
+    "values": ["Innovation", "Design", "Efficiency"]
+  },
+  {
+    "client_id": 5,
+    "name": "MindBloom",
+    "industry": "Mental Health & Wellness",
+    "tone": "Empathetic and Supportive",
+    "target_audience": "Stressed professionals",
+    "values": ["Calm", "Mindfulness", "Balance"]
+  },
+  {
+    "client_id": 6,
+    "name": "NomNomBites",
+    "industry": "Vegan Snacks",
+    "tone": "Playful and Energetic",
+    "target_audience": "Gen Z foodies",
+    "values": ["Vegan", "Fun", "Flavor"]
+  },
+  {
+    "client_id": 7,
+    "name": "Readify",
+    "industry": "Online Education",
+    "tone": "Inspiring and Accessible",
+    "target_audience": "Working professionals",
+    "values": ["Learning", "Affordability", "Empowerment"]
+  },
+  {
+    "client_id": 8,
+    "name": "GreenNest",
+    "industry": "Eco-Friendly Home Goods",
+    "tone": "Warm and Earthy",
+    "target_audience": "Environmentally conscious families",
+    "values": ["Sustainability", "Home Comfort", "Clean Living"]
+  }
+]

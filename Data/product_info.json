@@ -1,0 +1,90 @@
+[
+  {
+    "product_id": 1,
+    "client_id": 1,
+    "product_name": "Organic Cotton T-Shirts",
+    "category": "Apparel",
+    "features": ["100% GOTS-certified organic cotton", "Biodegradable dyes", "Fair trade stitched"],
+    "benefits": ["Soft on skin", "Good for planet", "Stylish and breathable"]
+  },
+  {
+    "product_id": 2,
+    "client_id": 1,
+    "product_name": "EcoDenim Jeans",
+    "category": "Apparel",
+    "features": ["Recycled denim", "Water-saving wash", "Durable build"],
+    "benefits": ["Reduces waste", "Comfortable fit", "Long-lasting"]
+  },
+  {
+    "product_id": 3,
+    "client_id": 2,
+    "product_name": "HydraGlow Serum",
+    "category": "Skincare",
+    "features": ["Hyaluronic Acid", "Niacinamide", "Cruelty-free"],
+    "benefits": ["Deep hydration", "Smooth texture", "Healthy glow"]
+  },
+  {
+    "product_id": 4,
+    "client_id": 2,
+    "product_name": "SilkTouch Cleanser",
+    "category": "Skincare",
+    "features": ["Gentle foaming", "No parabens", "Aloe-infused"],
+    "benefits": ["Soothes skin", "Cleans deeply", "Safe for daily use"]
+  },
+  {
+    "product_id": 5,
+    "client_id": 3,
+    "product_name": "Starter Protein Kit",
+    "category": "Fitness",
+    "features": ["Plant-based", "No sugar", "2 flavors"],
+    "benefits": ["Build muscle", "Fuel energy", "Tastes great"]
+  },
+  {
+    "product_id": 6,
+    "client_id": 3,
+    "product_name": "High-Impact Whey",
+    "category": "Fitness",
+    "features": ["Fast absorption", "Added BCAAs", "Low-carb"],
+    "benefits": ["Faster recovery", "Boosts strength", "Lean muscle gain"]
+  },
+  {
+    "product_id": 7,
+    "client_id": 4,
+    "product_name": "SmartSound Wireless Earbuds",
+    "category": "Electronics",
+    "features": ["Noise canceling", "Long battery", "Touch controls"],
+    "benefits": ["Clearer focus", "Immersive audio", "All-day wear"]
+  },
+  {
+    "product_id": 8,
+    "client_id": 6,
+    "product_name": "Super Crunch Vegan Chips",
+    "category": "Snacks",
+    "features": ["Baked", "Preservative-free", "Spicy & Tangy flavors"],
+    "benefits": ["Tasty", "Healthy", "Vegan-friendly"]
+  },
+  {
+    "product_id": 9,
+    "client_id": 6,
+    "product_name": "NutriMunch Protein Bites",
+    "category": "Snacks",
+    "features": ["10g protein", "Gluten-free", "No added sugar"],
+    "benefits": ["Power snack", "On-the-go fuel", "Fills you up"]
+  },
+  {
+    "product_id": 10,
+    "client_id": 7,
+    "product_name": "CareerBoost Python Bootcamp",
+    "category": "Education",
+    "features": ["Self-paced", "Mentor support", "Real projects"],
+    "benefits": ["Learn coding fast", "Build portfolio", "Get job-ready"]
+  },
+  {
+    "product_id": 11,
+    "client_id": 8,
+    "product_name": "EcoFoam Natural Dish Soap",
+    "category": "Home & Kitchen",
+    "features": ["No phosphates", "Biodegradable", "Gentle on skin"],
+    "benefits": ["Tough on grease", "Kind to earth", "Safe for families"]
+  }
+]

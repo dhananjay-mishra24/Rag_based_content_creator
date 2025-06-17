@@ -1,0 +1,74 @@
+[
+  {
+    "type": "Email",
+    "client_name": "EcoWear",
+    "audience": "Eco-conscious millennials",
+    "tone": "Friendly",
+    "product": "Organic Cotton T-Shirts",
+    "content": "Welcome to EcoWear! Discover our latest sustainable styles designed just for you. Enjoy 15% off your first order."
+  },
+  {
+    "type": "Email",
+    "client_name": "GlowSkin",
+    "audience": "Skincare enthusiasts",
+    "tone": "Warm",
+    "product": "HydraGlow Serum",
+    "content": "Your glow journey begins now. Get exclusive early access to our HydraGlow Serum — hydration that lasts all day."
+  },
+  {
+    "type": "Email",
+    "client_name": "FitFuel",
+    "audience": "Fitness beginners",
+    "tone": "Motivational",
+    "product": "Starter Protein Kit",
+    "content": "You’re stronger than you think. Kickstart your fitness goals with 10% off our Starter Protein Kit."
+  },
+  {
+    "type": "Blog",
+    "client_name": "EcoWear",
+    "audience": "Eco-conscious millennials",
+    "tone": "Informative",
+    "product": "Organic Cotton T-Shirts",
+    "content": "Why Organic Cotton Matters: Learn how switching to organic cotton helps reduce water waste and pesticide use."
+  },
+  {
+    "type": "Blog",
+    "client_name": "GlowSkin",
+    "audience": "Skincare enthusiasts",
+    "tone": "Scientific",
+    "product": "HydraGlow Serum",
+    "content": "Hydration Science Explained: How hyaluronic acid binds water molecules and transforms your skin overnight."
+  },
+  {
+    "type": "Social Media",
+    "client_name": "FitFuel",
+    "audience": "Young adults",
+    "tone": "Energetic",
+    "product": "Starter Protein Kit",
+    "content": "New drop 💪 Our Starter Protein Kit is here! Power your workouts the clean way. Link in bio. #FitFuel #CleanEnergy"
+  },
+  {
+    "type": "Social Media",
+    "client_name": "EcoWear",
+    "audience": "Fashion-forward Gen Z",
+    "tone": "Trendy",
+    "product": "Summer Collection",
+    "content": "Our Summer Collection just landed ☀️ Breezy, bold, and 100% sustainable. Tap to shop! #EcoWearVibes"
+  },
+  {
+    "type": "Ad Copy",
+    "client_name": "GlowSkin",
+    "audience": "Women aged 25–40",
+    "tone": "Luxury",
+    "product": "HydraGlow Serum",
+    "content": "Reveal your natural glow with HydraGlow. Science meets skincare. Shop now."
+  },
+  {
+    "type": "Ad Copy",
+    "client_name": "FitFuel",
+    "audience": "College athletes",
+    "tone": "Bold",
+    "product": "High-Impact Whey",
+    "content": "Train harder. Recover faster. High-Impact Whey by FitFuel — built for champions."
+  }
+]

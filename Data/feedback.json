@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": "email_eco_01",
+    "client_id": 1,
+    "product_id": 1,
+    "channel": "Email",
+    "rating": 4.8,
+    "feedback": "Clear, friendly, and matched our tone perfectly!"
+  },
+  {
+    "content_id": "blog_glow_02",
+    "client_id": 2,
+    "product_id": 3,
+    "channel": "Blog",
+    "rating": 4.5,
+    "feedback": "Informative but a bit too technical for our audience."
+  },
+  {
+    "content_id": "ad_fit_01",
+    "client_id": 3,
+    "product_id": 6,
+    "channel": "Ad Copy",
+    "rating": 3.2,
+    "feedback": "Good energy, but the call-to-action felt weak."
+  },
+  {
+    "content_id": "social_glow_03",
+    "client_id": 2,
+    "product_id": 4,
+    "channel": "Social Media",
+    "rating": 5.0,
+    "feedback": "Perfect Instagram caption — short, trendy, and effective!"
+  },
+  {
+    "content_id": "email_fit_02",
+    "client_id": 3,
+    "product_id": 5,
+    "channel": "Email",
+    "rating": 4.0,
+    "feedback": "Great tone. Could be shorter for mobile users."
+  },
+  {
+    "content_id": "blog_readify_01",
+    "client_id": 7,
+    "product_id": 10,
+    "channel": "Blog",
+    "rating": 4.6,
+    "feedback": "Very helpful and aligned with our upskilling message."
+  },
+  {
+    "content_id": "ad_nomnom_02",
+    "client_id": 6,
+    "product_id": 9,
+    "channel": "Ad Copy",
+    "rating": 3.5,
+    "feedback": "Catchy, but not unique enough."
+  },
+  {
+    "content_id": "email_eco_02",
+    "client_id": 1,
+    "product_id": 2,
+    "channel": "Email",
+    "rating": 4.2,
+    "feedback": "Great content but needed stronger subject line."
+  },
+  {
+    "content_id": "social_greennest_01",
+    "client_id": 8,
+    "product_id": 11,
+    "channel": "Social Media",
+    "rating": 4.9,
+    "feedback": "Loved the tone and message. Very brand aligned."
+  },
+  {
+    "content_id": "email_glow_04",
+    "client_id": 2,
+    "product_id": 3,
+    "channel": "Email",
+    "rating": 4.3,
+    "feedback": "Beautiful flow, maybe add a limited-time offer next time."
+  }
+]

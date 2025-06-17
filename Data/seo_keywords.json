@@ -1,0 +1,42 @@
+[
+  {
+    "client_id": 1,
+    "product_id": 1,
+    "keywords": ["organic fashion", "sustainable t-shirts", "eco-friendly clothing"]
+  },
+  {
+    "client_id": 1,
+    "product_id": 2,
+    "keywords": ["denim recycling", "eco jeans", "low-impact denim fashion"]
+  },
+  {
+    "client_id": 2,
+    "product_id": 3,
+    "keywords": ["hydrating serum", "niacinamide skincare", "glow skincare routine"]
+  },
+  {
+    "client_id": 2,
+    "product_id": 4,
+    "keywords": ["sensitive skin cleanser", "aloe face wash", "gentle cleansing"]
+  },
+  {
+    "client_id": 3,
+    "product_id": 5,
+    "keywords": ["plant protein", "fitness for beginners", "healthy protein snacks"]
+  },
+  {
+    "client_id": 3,
+    "product_id": 6,
+    "keywords": ["whey protein isolate", "post workout recovery", "high impact training supplements"]
+  },
+  {
+    "client_id": 6,
+    "product_id": 8,
+    "keywords": ["vegan chips", "healthy snacks", "low calorie crunchy bites"]
+  },
+  {
+    "client_id": 7,
+    "product_id": 10,
+    "keywords": ["python course online", "learn python fast", "job-ready coding bootcamp"]
+  }
+]
